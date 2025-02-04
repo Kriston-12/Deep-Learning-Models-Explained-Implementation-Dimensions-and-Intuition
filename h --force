@@ -1,0 +1,41 @@
+[33mcommit 06c6dfc662ca0765e55efd94fa856fb2532d501b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Lyu(Kriston) Wang <108577541+Kriston-12@users.noreply.github.com>
+Date:   Fri Jan 31 23:59:43 2025 -0500
+
+    Finish implementing the most fundamental functions--synthetic_data, and data_iter (these two functions are similar to what dataLoader does in Pytorch) in linear regression
+
+[33mcommit c0c0a3884a5cd7a7c92f090c7b82eb3138f7b1eb[m
+Author: Lyu(Kriston) Wang <108577541+Kriston-12@users.noreply.github.com>
+Date:   Sun Jan 26 23:59:54 2025 -0500
+
+    Halfway of introducing llanguage model in general
+
+[33mcommit 560db963cc55dfec0f8838be8f30a36487b169bd[m
+Author: Kriston12Lyu(Kriston) Wang <108577541+Kriston-12@users.noreply.github.com>
+Date:   Sun Jan 26 00:01:22 2025 -0500
+
+    Done with MLP source code
+
+[33mcommit 223d5ff94423bafc95a869e9631db88097902ce6[m
+Author: kriston <lyu.wang@mail.utoronto.ca>
+Date:   Sat Jan 25 23:58:14 2025 -0500
+
+    Source code for mlp, graph explanation to be done
+
+[33mcommit cff150d7eb3b537725a90ceed4dbd677aaf1c244[m
+Author: Kriston12Lyu(Kriston) Wang <108577541+Kriston-12@users.noreply.github.com>
+Date:   Sun Jan 19 23:59:40 2025 -0500
+
+    Finish text processing
+
+[33mcommit 0830c12a31ca5e9bc061743747e3e66f631b28c2[m
+Author: Lyu(Kriston) Wang <108577541+Kriston-12@users.noreply.github.com>
+Date:   Tue Jan 14 19:56:24 2025 -0500
+
+    Update README.md
+
+[33mcommit 4664619cd9705e07bd4c6503ec5f2b74c2cb16f0[m
+Author: Lyu(Kriston) Wang <108577541+Kriston-12@users.noreply.github.com>
+Date:   Tue Jan 14 19:43:46 2025 -0500
+
+    Initial commit
